@@ -142,3 +142,33 @@
 
 [编程中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
+### 性能优化
+- [内存管理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Memory_Management)
+- [前端的长列表性能优化](http://fishedee.com/%E5%89%8D%E7%AB%AF/2017/02/27/%E5%89%8D%E7%AB%AF%E7%9A%84%E9%95%BF%E5%88%97%E8%A1%A8%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.html)
+- [vue 性能优化](https://github.com/Coffcer/Blog/issues/3)
+
+### 前端工程
+- [如何管理一个前端基础架构团队- AdRoll - 众成翻译](https://juejin.im/entry/59c7d35bf265da065754df2f)
+- [QCon北京2014《CardKit & DOMO UI - 移动时代技术与设计的十字路口》技术篇](https://www.douban.com/note/347692465/)
+- [前端工程——基础篇](https://segmentfault.com/r/1250000011218832?shareId=1210000011218833)
+- [对无线电商动态化方案的思考](https://github.com/amfe/article/issues/13)
+- [大公司里怎样开发和部署前端代码？](https://www.zhihu.com/question/20790576)
+- [美团点评境外度假团队前端项目开发实践总结](https://tech.meituan.com/fe-overseas-practice.html)
+
+### AST
+- [astexplorer](https://astexplorer.net/)
+- [javascript-ast](http://resources.jointjs.com/demos/javascript-ast)
+- [esprima](https://github.com/jquery/esprima)
+
+
+### 业内发展
+- [Kotlin](https://kotlinlang.org/)：Kotlin 可以编译成Java字节码，也可以编译成 JavaScript，方便在没有 JVM 的设备上运行
+- [clojurescript](https://github.com/clojure/clojurescript)：基于Clojure语言的JS封装
+- [PWA](https://developers.google.com/web/progressive-web-apps/)：PWA（Progressive Web App），渐进式网络应用
+- [React Native](http://facebook.github.io/react-native/)：基于 React 的跨平台移动应用开发框架
+- [Nodejs](https://nodejs.org/en/)：是一个基于 Chrome V8 引擎的 JavaScript 运行环境
+- [小程序](https://developers.weixin.qq.com/miniprogram/dev/api/)
+
+### 工具使用
+- [Charles从入门到放弃](http://www.cnblogs.com/zqzjs/p/7763406.html)
+
