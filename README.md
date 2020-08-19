@@ -203,4 +203,24 @@
 
 2. [动态规划之最长公共子序列](https://github.com/fyuanfen/note/blob/master/article/Algorithm/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E4%B9%8B%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97%E8%BF%87%E7%A8%8B%E5%9B%BE%E8%A7%A3.md)
 
+## Node.js 
++ [HomePage](http://www.nodejs.org/)
++ [Infoq深入浅出Node.js系列（进阶必读）](http://www.infoq.com/cn/articles/what-is-nodejs)
++ [Io.js中文文档](http://davidcai1993.gitbooks.io/iojs-api-doc-in-chinese/content/)
++ [Node.js中文文档](http://nodeapi.ucdok.com/#/api/)
++ [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
++ [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
++ [Node.js C++ addon编写实战系列](http://deadhorse.me/nodejs/2012/10/08/c_addon_in_nodejs_node_gyp.html)
++ [热门node.js模块排行榜，方便找出你想要的模块](https://nodejsmodules.org/)
++ [nodejs多线程，真正的非阻塞](http://cnodejs.org/topic/518b679763e9f8a5424406e9)
++ [浅析nodejs的buffer类](http://cnodejs.org/topic/5189ff4f63e9f8a54207f60c)
++ [利用libuv编写异步多线程的addon实例](http://cnodejs.org/topic/519ceb5263e9f8a542c19764)
++ [Node.js中exports与module.exports的区别](http://weizhifeng.net/node-js-exports-vs-module-exports.html)
++ [Node.js http 管道拒绝服务漏洞](http://cnodejs.org/topic/5293550ca6957a08096508fb)
++ [Node.js高级编程](http://yaohuiji.com/2013/01/08/pro-node-article-list/)
++ [Node.js代码风格指南](https://github.com/dead-horse/node-style-guide)
++ [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
++ [前端快速掌握 nodejs+mongodb+express+jade](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+
+
 
