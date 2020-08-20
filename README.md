@@ -222,5 +222,14 @@
 + [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
 + [前端快速掌握 nodejs+mongodb+express+jade](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 
+####最流行的web框架Express
++ [HomePage](http://expressjs.com/)
++ [加装涡轮，提速expressjs](http://cnodejs.org/topic/51c3ef9f73c638f37058e6bc)
++ [给 connect 的 static 模块加上url路径前缀](http://cnodejs.org/topic/4fce14e0e5e72c25180b51d1)
++ [研究nodeclub 登陆验证逻辑的一些心得](http://cnodejs.org/topic/515535485dff253b374288da)
++ [Express.js 中文入门指引手册](http://www.csser.com/board/4f77e6f996ca600f78000936)
++ [Connect架构初探 for 新手](http://cnodejs.org/topic/51a2f562776b2e7f035f2850)
++ [使用 Express + Socket.IO 搭建多人聊天室](http://cnodejs.org/topic/51d51cd8d44cbfa3047926ba)
+
 
 
