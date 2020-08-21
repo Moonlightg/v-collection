@@ -231,5 +231,19 @@
 + [Connect架构初探 for 新手](http://cnodejs.org/topic/51a2f562776b2e7f035f2850)
 + [使用 Express + Socket.IO 搭建多人聊天室](http://cnodejs.org/topic/51d51cd8d44cbfa3047926ba)
 
+###Mysql 老牌关系型数据库
+
++ [HomePage](https://github.com/felixge/node-mysql)
++ [mysql处理BIGINT里面的一个坑](http://cnodejs.org/topic/51a8c64d555d34c67835037d)
++ [使用node-mysql中的连接池](http://cnodejs.org/topic/51676ac26d38277306fe7c85)
++ [mysql自动断开解决办法](http://cnodejs.org/topic/516b77e86d382773064266df)
+
+###Mongodb 
+
++ [node-mongodb-native](https://github.com/mongodb/node-mongodb-native)
++ [mongoose](https://github.com/LearnBoost/mongoose)
++ [如何使用mongoose对一个100万+的mongodb的表进行遍历操作](http://cnodejs.org/topic/51508570604b3d512113f1b3)
++ [[技术讨论]mongodb驱动的正确使用方法](http://cnodejs.org/topic/5190d61263e9f8a542acd83b)
+
 
 
