@@ -245,5 +245,35 @@
 + [如何使用mongoose对一个100万+的mongodb的表进行遍历操作](http://cnodejs.org/topic/51508570604b3d512113f1b3)
 + [[技术讨论]mongodb驱动的正确使用方法](http://cnodejs.org/topic/5190d61263e9f8a542acd83b)
 
+###异步流程处理
+
+####async
++ [HomePage](https://github.com/caolan/async)
++ [Async中文详解](http://freewind.me/blog/20120518/932.html)
+
+####eventproxy
++ [HomePage](https://github.com/JacksonTian/eventproxy)
+
+####Q Promise 异步模式 
++ [HomePage](https://github.com/kriskowal/q)
++ [在Node.js 中用 Q 实现Promise – Callbacks之外的另一种选择](http://www.ituring.com.cn/article/54547)
+
+####[异步解决方案示例](https://github.com/dead-horse/callback_hell)
+
+##node.js中文书
+
+###[了不起的Node.js](http://book.douban.com/subject/25767596/)  
+![](http://img3.douban.com/mpic/s27132823.jpg)
+
+###[九浅一深Node.js](http://book.douban.com/subject/25768396/) pu大作品
+![](http://img5.douban.com/mpic/s27134708.jpg)
+
+###[node.js入门经典](http://book.douban.com/subject/23780706/)
+![](http://img5.douban.com/mpic/s26588828.jpg)
+
+###[node.js开发指南](http://book.douban.com/subject/10789820/)
+![](http://img5.douban.com/mpic/s10307479.jpg)
+
+
 
 
